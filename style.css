@@ -10,7 +10,7 @@ body {
 }
 
 .back {
-  background-image: url("background-pattern-desktop.svg");
+ 
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -87,7 +87,7 @@ body {
 /* Mobile view adjustments */
 @media screen and (max-width: 600px) {
   .back {
-    background-image: url("background-pattern-mobile.svg");
+    
     height: 150px;
   }
 
