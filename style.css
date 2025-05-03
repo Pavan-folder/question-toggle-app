@@ -10,7 +10,7 @@ body {
 }
 
 .back {
- 
+  background-color: hsl(275, 100%, 97%);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
